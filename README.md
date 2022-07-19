@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-//**jurian112211/Jurian112211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on some spigot projects.
 - 🌱 I program java and some other languages.
